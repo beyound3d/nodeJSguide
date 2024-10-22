@@ -16,3 +16,8 @@
 7. Community Support: A large and active community means a wealth of resources, tutorials, and third-party modules are readily available.
 
 **These features make Node.js an excellent choice for building web applications, APIs, and real-time applications like chat applications and online gaming.**
+### Initialising
+```
+npm  init -y
+```
+
