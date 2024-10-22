@@ -21,3 +21,14 @@
 npm  init -y
 ```
 
+**To start File/server**
+```
+node .
+```
+**Acess an Api**
+```
+curl https://localhost:9090
+```
+
+
+
